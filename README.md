@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SickPare
 - 👀 The language I know best is Java
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and JavaScript
 - 📫 Reach me @ ale.pare03@gmail.com
 
 <!---
